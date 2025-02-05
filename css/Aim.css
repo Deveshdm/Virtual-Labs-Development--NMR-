@@ -1,0 +1,59 @@
+.navbar{
+    /* display: contents; */
+    
+    background-color: seagreen;
+}
+.navbar li:hover{
+    color: brown;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+footer{
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+footer p{
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 1px;
+}
+.heading{
+    color: coral;
+}
+li a{
+
+    color : coral;
+
+    /*background-color: #FFF;*/
+
+    font-family: Georgia, 'Times New Roman', Times, bold;
+
+
+}
+
+li a:hover{
+
+    color : #3461a2;
+
+    background-color: blueviolet;
+
+    font-family: Georgia, 'Times New Roman', Times, bold;
+
+
+}
+
+
+/* Webkit Scrollbar */
+
+
+.text{
+    border-bottom: 2px solid rgba(71, 66, 66, 0.493);
+    color: indianred;
+}
